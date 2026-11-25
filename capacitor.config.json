@@ -1,0 +1,6 @@
+{
+  "appId": "com.starshop.debts",
+  "appName": "Shop Debts",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
